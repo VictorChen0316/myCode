@@ -3,7 +3,7 @@
 public class Car
 {
 
-private String testMaster;
+private String testMaster = "456";
 
 	public int getWheels ()
 	{
